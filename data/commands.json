@@ -1,1 +1,1 @@
-[null]
+[null,{"name":"test","permissions":"NONE","restriction":"0","_id":"BhiXx","actions":[{"channel":"0","varName":"","message":"${member}, działam.","storage":"0","varName2":"","name":"Send Message"}]},{"name":"random","permissions":"NONE","restriction":"1","_id":"IdcIV","actions":[{"storage":"1","varName":"number","min":"1","max":"5","name":"Generate Random Number"},{"channel":"0","varName":"","message":"Wylosowana liczba: **${tempVars(\"number\")}**","storage":"0","varName2":"","name":"Send Message"}]}]
